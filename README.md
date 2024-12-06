@@ -34,7 +34,7 @@
 
 ---
 
-### 5. **The UltiMate Tool**  
+### 5. **[The UltiMate Tool](https://github.com/adityachoudhary7/The_UltiMate_Tool)**  
 - 🗓️ **Duration:** *May 2023 – July 2023*  
 - 🛠️ **Tools:** Python, PyQt5, Pandas  
 - 📄 **Description:**  
@@ -68,7 +68,7 @@
 
 ## 💡 **Independent Projects**
 
-### 1. **Train Accident Analysis Dashboard**  
+### 1. **[Train Accident Analysis Dashboard](https://github.com/adityachoudhary7/Train-Accidents-in-India)** 
 - 🗓️ **Duration:** *August 2024 – September 2024*  
 - 🛠️ **Tools:** Power BI, Python, Pandas  
 - 📄 **Description:**  
@@ -76,7 +76,7 @@
 
 ---
 
-### 2. **CryptoView - Python and Power BI Project**  
+### 2. **[CryptoView - Python and Power BI Project](https://github.com/adityachoudhary7/CryptoView)**  
 - 🗓️ **Duration:** *July 2023 – August 2023*  
 - 🛠️ **Tools:** Python, Power BI  
 - 📄 **Description:**  
@@ -92,10 +92,25 @@
 
 ---
 
-### 4. **Tableau Dashboard: Ranking Top 50 U.S. Market Research Companies (2020)**  
+### 4. **[Tableau Dashboard: Ranking Top 50 U.S. Market Research Companies (2020)](https://github.com/adityachoudhary7/Top_50_US_Market_Research_Companies_2020_Analysis_on_Tableau)**  
 - 🗓️ **Duration:** *March 2023*  
 - 🛠️ **Tools:** Tableau  
 - 📄 **Description:**  
   Created a **data visualization analysis** showcasing insights into the **top companies** in the market research and analytics industry.  
 
 ---
+
+### **Impact Summary of Automation and Optimization Projects**  
+
+
+| **Project**                                  | **Tools**                                | **Time/Effort Saved**                  |  
+|---------------------------------------------|------------------------------------------|----------------------------------------|  
+| Delivery Report Automation (VBA)            | VBA                                      | Reduced time per report by 80%.       |  
+| Power BI Transition Status Dashboard        | Power BI, Excel                         | Cut weekly effort by 3–4 hours.       |  
+| DiscoverAuto - Automation Project           | Python, Pandas, Win32com.client, PyQt5  | Saved 10+ hours weekly, improved reporting accuracy by 70%. |  
+| VBA Sprint                                  | VBA, Excel                              | Automated 300+ reports, saving 50+ man-hours. |  
+| Monthly Report Tracker Automation           | VBA                                      | Streamlined reporting, reduced manual effort significantly. |  
+| EDA Automation                              | VBA                                      | Saved 80% time per report.            |  
+| Canada Releasability Macro                  | VBA                                      | Reduced processing time by over 90%.  |  
+| Cross-Utilization Analysis                  | Python, Power BI                        | Enhanced efficiency by 20%.           |  
+| ERDAS                                       | Power Automate, Excel                   | Automated email delivery for 100+ reports, saving significant time. |  
